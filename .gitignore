@@ -1,1 +1,39 @@
-node_modules
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Environment
+.env
+.env.local
+.env.development
+.env.production
+
+# Build
+dist/
+web-build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# Claude
+.claude/
+CLAUDE.md
+AGENTS.md

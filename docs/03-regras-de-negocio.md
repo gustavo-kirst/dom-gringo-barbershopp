@@ -63,15 +63,15 @@ Os horários poderão possuir diferentes durações.
 Exemplos:
 
 - Corte tradicional
-    - 30 minutos
+  - 30 minutos
 
 - Corte + barba
-    - 1 hora
+  - 1 hora
 
 - Corte + barba + pigmentação
 
 - Procedimentos especiais
-    - duração personalizada
+  - duração personalizada
 
 Essa flexibilidade permitirá um melhor aproveitamento da agenda.
 
@@ -180,9 +180,11 @@ Data padrão:
 Exceções:
 
 Cliente João
+
 - Dia 10
 
 Cliente Pedro
+
 - Dia 20
 
 ---

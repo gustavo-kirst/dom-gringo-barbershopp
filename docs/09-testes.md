@@ -108,18 +108,18 @@ Exemplos:
 
 # ✅ Casos de Teste
 
-| ID | Caso de Teste | Resultado Esperado |
-|----|---------------|--------------------|
-| CT-01 | Cadastro de usuário | Conta criada com sucesso |
-| CT-02 | Login válido | Usuário autenticado |
-| CT-03 | Login inválido | Mensagem de erro |
-| CT-04 | Agendar horário disponível | Agendamento realizado |
-| CT-05 | Agendar horário ocupado | Operação bloqueada |
-| CT-06 | Solicitar cancelamento antes de 1 hora | Solicitação enviada |
-| CT-07 | Solicitar cancelamento após o limite | Operação bloqueada |
-| CT-08 | Registrar pagamento | Pagamento salvo |
-| CT-09 | Atualizar perfil | Informações atualizadas |
-| CT-10 | Recuperar senha | E-mail enviado |
+| ID    | Caso de Teste                          | Resultado Esperado       |
+| ----- | -------------------------------------- | ------------------------ |
+| CT-01 | Cadastro de usuário                    | Conta criada com sucesso |
+| CT-02 | Login válido                           | Usuário autenticado      |
+| CT-03 | Login inválido                         | Mensagem de erro         |
+| CT-04 | Agendar horário disponível             | Agendamento realizado    |
+| CT-05 | Agendar horário ocupado                | Operação bloqueada       |
+| CT-06 | Solicitar cancelamento antes de 1 hora | Solicitação enviada      |
+| CT-07 | Solicitar cancelamento após o limite   | Operação bloqueada       |
+| CT-08 | Registrar pagamento                    | Pagamento salvo          |
+| CT-09 | Atualizar perfil                       | Informações atualizadas  |
+| CT-10 | Recuperar senha                        | E-mail enviado           |
 
 ---
 

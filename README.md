@@ -98,11 +98,11 @@ Dashboard completo contendo:
 
 ## Corte Avulso
 
-| Forma de Pagamento | Valor |
-|--------------------|-------|
-| Pix | R$ 35,00 |
-| Dinheiro | R$ 35,00 |
-| Cartão | R$ 40,00 |
+| Forma de Pagamento | Valor    |
+| ------------------ | -------- |
+| Pix                | R$ 35,00 |
+| Dinheiro           | R$ 35,00 |
+| Cartão             | R$ 40,00 |
 
 ---
 
@@ -110,11 +110,11 @@ Dashboard completo contendo:
 
 Até **4 cortes por mês**
 
-| Forma de Pagamento | Valor |
-|--------------------|-------|
-| Pix | R$ 90,00 |
-| Dinheiro | R$ 90,00 |
-| Cartão | R$ 95,00 |
+| Forma de Pagamento | Valor    |
+| ------------------ | -------- |
+| Pix                | R$ 90,00 |
+| Dinheiro           | R$ 90,00 |
+| Cartão             | R$ 95,00 |
 
 ---
 
@@ -130,13 +130,13 @@ O aplicativo possui uma identidade visual inspirada em:
 
 ### Paleta de Cores
 
-| Cor | Hexadecimal |
-|------|-------------|
-| Preto | #0B0B0B |
-| Cinza Escuro | #1E1E1E |
-| Cinza Médio | #404040 |
-| Cinza Claro | #D9D9D9 |
-| Branco | #FFFFFF |
+| Cor          | Hexadecimal |
+| ------------ | ----------- |
+| Preto        | #0B0B0B     |
+| Cinza Escuro | #1E1E1E     |
+| Cinza Médio  | #404040     |
+| Cinza Claro  | #D9D9D9     |
+| Branco       | #FFFFFF     |
 
 ---
 
